@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Tyler_Marghetis/ATLAS-Proj
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Number Time Global Distribution
+### 
 
 ```markdown
 
@@ -21,9 +21,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and 
-![ATLAS_number_time_globalDistribution](https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png)
+
 ```
 
+# Number Time Global Distribution
+![ATLAS_number_time_global Distribution](https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png)
 
 
 
