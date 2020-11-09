@@ -4,12 +4,9 @@ You can use the [editor on GitHub](https://github.com/Tyler_Marghetis/ATLAS-Proj
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Number Time Global Distribution
 
 ```markdown
-Syntax highlighted code block
 
 # ATLAS Databank
 ## Header 2
@@ -24,11 +21,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and 
-
+![ATLAS_number_time_globalDistribution](https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png)
 ```
 
 
 
-![ATLAS_number_time_globalDistribution](https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png)
 
 
