@@ -8,23 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ```markdown
 
-# ATLAS Databank
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and 
 
 ```
 
-# Number Time Global Distribution
+## Number Time Global Distribution
 ![ATLAS_number_time_global Distribution](https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png)
 
 
