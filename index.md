@@ -24,8 +24,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and 
-![MAP](src)
-([ATLAS_number_time_globalDistribution.pdf](https://github.com/schacon2/ATLAS-Project/files/5508629/ATLAS_number_time_globalDistribution.pdf)
+![MAP]
+(https://github.com/schacon2/ATLAS-Project/files/5508629/ATLAS_number_time_globalDistribution.pdf)
 
 
 
