@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the ATLAS DATABANK
 
 You can use the [editor on GitHub](https://github.com/Tyler_Marghetis/ATLAS-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -24,19 +24,13 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and 
-![MAP]
-(https://github.com/schacon2/ATLAS-Project/files/5508629/ATLAS_number_time_globalDistribution.pdf)
-
-
+![ATLAS_number_time_globalDistribution]
+(https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png)
 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/schacon2/ATLAS-Project/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
