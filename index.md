@@ -10,11 +10,11 @@ databank called (ATLAS) Databank on how humans think and communicate
 about abstract domains like space, time, and number. The end goal is to 
 allow cognitive scientist, linguists, or anthropologists to develop new 
 questions and analyze regularities within multiple lingistics 
-communities along with their conceptual doamins.<p/>
+communities along with their conceptual doamins.</p>
 
 ## NUMBER TIME GLOBAL DISTRIBUTION 
 
-<img src= "https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png" width="200">
+<img src= "https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png">
 
 
 <form action="https://schacon2.github.io/ATLAS-Databank/" method="POST">
