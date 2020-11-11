@@ -16,6 +16,7 @@ communities along with their conceptual doamins.<p/>
 
 <img src= "https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png">
 
+
 <form action="https://schacon2.github.io/ATLAS-Databank/" method="POST">
   <label for="name">Your name</label>
   <input type="text" name="name" required>
