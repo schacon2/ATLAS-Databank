@@ -1,5 +1,5 @@
+## DESCRIPTION
 
-## Description
 ```markdown
 Behavioral scientist have called for further research in how different 
 cultures around the world communicate abstract domains. As of now 
@@ -12,7 +12,9 @@ allow cognitive scientist, linguists, or anthropologists to develop new
 questions and analyze regularities within multiple lingistics 
 communities along with their conceptual doamins.
 ```
-## Number Time Global Distribution
+
+## NUMBER TIME GLOBAL DISTRIBUTION
+
 <img src= "https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png">
 
 
