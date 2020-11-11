@@ -2,10 +2,13 @@ title: ATLAS DATABANK
 author: Tyler Marghetis
 email: tmarghetis@ucmerced.edu
 description: > # this means to ignore newlines until "baseurl:" 
-  Hello world!
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-
+   Behavioral scientist have called for further research in how different cultures around the world communicate abstract domains. 
+   As of now research has been limited to isolated studies that compare only one aspect of abstract thought and language. In 
+   terms of a solution we propose to develop an integrated, extensible, public, opn-access databank called (ATLAS) Databank on 
+   how humans think and communicate about abstract domains like space, time, and number. The end goal is to allow cognitive 
+   scientist, linguists, or anthropologists to develop new questions and analyze regularities within multiple lingistics
+   communities along with their conceptual doamins.  
+  
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
