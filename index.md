@@ -1,4 +1,3 @@
-# Welcome to the (ATLAS) DATABANK
 
 ## Description
 ```markdown
