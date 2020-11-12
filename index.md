@@ -16,13 +16,9 @@ communities along with their conceptual doamins.
 
 <img src= "https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png">
 
-
-<form action="https://schacon2.github.io/ATLAS-Databank/" method="POST">
-  <label for="name">Your name</label>
-  <input type="text" name="name" required>
-
-  <label for="email">Your email</label>
-  <input type="text" name="schacon2@ucmerced.edu" required>
-
-  <button type="submit">Submit form</button>
+<form method=”post” name=”contact_form” action=”contact-form-handler.php”> 
+Your Name: <input type=”text” name=”name”> Email Address:
+<input type=”text” name=”email”> Message:
+<textarea name=”message”></textarea>
+<input type=”submit” value=”Submit”>
 </form>
