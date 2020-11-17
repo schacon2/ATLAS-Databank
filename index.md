@@ -15,5 +15,3 @@ communities along with their conceptual doamins.
 ## NUMBER TIME GLOBAL DISTRIBUTION 
 
 <img src= "https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png">
-
-
