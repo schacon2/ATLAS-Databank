@@ -16,18 +16,4 @@ communities along with their conceptual doamins.
 
 <img src= "https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png">
 
-<form action=”schacon2@ucmerced.edu”
 
-method=”POST”
-
-enctype=”multipart/form-data”
-
-name=”EmailTestForm”>
-
-Name:<br>
-
-<input type=”text” size=”24″ name=”VisitorName”><br><br>
-
-Message:<br> <textarea name=”VisitorComment” rows=”4″ cols=”20″>
-
-</textarea><br><br> <input type=”submit” value=”Submit”> </form>
