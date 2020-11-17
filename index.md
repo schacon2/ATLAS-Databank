@@ -9,7 +9,7 @@ propose to develop an integrated, extensible, public,open-access
 databank called (ATLAS) Databank on how humans think and communicate 
 about abstract domains like space, time, and number. The end goal is to 
 allow cognitive scientist, linguists, or anthropologists to develop new 
-questions and analyze regularities within multiple lingistics 
+questions and analyze regularities within multiple linguistics
 communities along with their conceptual doamins.
 
 ## NUMBER TIME GLOBAL DISTRIBUTION 
