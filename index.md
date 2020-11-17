@@ -16,3 +16,12 @@ communities along with their conceptual doamins.
 
 <img src= "https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png">
 
+<html>
+<head>
+  <title>Message Box</title>
+  </head>
+  <body>
+  <textarea rows="20" cols="30">Enter your Message here</textarea>
+  <input type="submit" name="submit" value="send">
+  </body>
+  </html>
