@@ -17,7 +17,7 @@ communities along with their conceptual doamins.
 <img src= "https://user-images.githubusercontent.com/49128397/98511223-41e53800-2219-11eb-9002-091573570a20.png">
 
 <div id="contact">
-    <h2>Hello there</h2>
+    
     <h2>Get in Touch</h2>
     <div id="contact-form">
         <form action="https://formspree.io/mpzyqdng" method="POST">
